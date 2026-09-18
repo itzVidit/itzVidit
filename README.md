@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vidit Bansal</h1>
-<h3 align="center">I am a data enthusiast exploring the intersection of finance and AI.</h3>
+<h3 align="center">I am a data enthusiast exploring the intersection of Finance and AI.</h3>
 
 - 🔭 I’m currently working on [LLM-Arbitrator](https://github.com/itzVidit/LLM-Arbitrator)
 
-- 🌱 I’m currently learning **more about Machine Learning, GenAI, and financial analytics.**
+- 🌱 I’m currently learning **more about Machine Learning, GenAI, and Financial Analytics.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itzVidit](https://github.com/itzVidit)
 
